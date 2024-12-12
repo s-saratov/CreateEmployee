@@ -109,7 +109,7 @@ input::placeholder {
   height: 470px;
   padding: 60px;
   border-radius: 4px;
-  visibility: hidden;
+  opacity: 0;
 }
 
 .info-employee {
